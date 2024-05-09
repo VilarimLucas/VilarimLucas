@@ -50,7 +50,7 @@
  ✌️ &emsp; Experiência com desenvolvimento Enterprise <br/><br/>
  ❤️ &emsp; Apaixonado pela cultura Alemã<br/><br/>
  📧 &emsp; Contas principais: vilarim.lucas@gmail.com & vilarim.lucas@outlook.com<br/><br/>
- 💬 &emsp; Saiba mais aqui [here](https://vilarimlucas.github.io/portifolio/)
+ 💬 &emsp; Saiba mais [clicando aqui!](https://vilarimlucas.github.io/portifolio/)
 
 </p>
 
