@@ -42,7 +42,7 @@
 <br />
 
 <!-- About Section -->
- # Sobre min
+ # Sobre mim
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
