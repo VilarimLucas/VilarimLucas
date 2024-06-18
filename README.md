@@ -16,7 +16,7 @@
 
 <!-- Intro  -->
 
-<p align="center" style="display: flex; justify-content: space-around; width:100%">
+<p align="center" style="display: flex; justify-content: space-around;" width="100%">
  <a href="https://gitlab.com/VilarimLucas" target="blank">
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="VilarimLucas" />
  </a>
