@@ -16,12 +16,28 @@
 
 <!-- Intro  -->
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1 1 22%; margin: 10px; text-align: center;">Div 1</div>
-  <div style="flex: 1 1 22%; margin: 10px; text-align: center;">Div 2</div>
-  <div style="flex: 1 1 22%; margin: 10px; text-align: center;">Div 3</div>
-  <div style="flex: 1 1 22%; margin: 10px; text-align: center;">Div 4</div>
+<!-- Div exterior -->
+<div style="display: flex; justify-content: space-around;">
+
+  <!-- Divs internas (colunas) -->
+  <div style="flex: 1; padding: 10px; text-align: center; background-color: #f0f0f0;">
+    Conteúdo da Coluna 1
+  </div>
+
+  <div style="flex: 1; padding: 10px; text-align: center; background-color: #f0f0f0;">
+    Conteúdo da Coluna 2
+  </div>
+
+  <div style="flex: 1; padding: 10px; text-align: center; background-color: #f0f0f0;">
+    Conteúdo da Coluna 3
+  </div>
+
+  <div style="flex: 1; padding: 10px; text-align: center; background-color: #f0f0f0;">
+    Conteúdo da Coluna 4
+  </div>
+
 </div>
+
 
 <p style="display: flex; justify-content: space-around;" width="100%">
  <a  width="100%" href="https://gitlab.com/VilarimLucas" target="blank">
