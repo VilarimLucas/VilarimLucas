@@ -15,31 +15,34 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Olá! Eu sou Desenvolvedor Multiplataforma brasileiro </samp>
-</h3>
 
-<p align="center">
- <a href="https://gitlab.com/VilarimLucas" target="blank">
+
+<p style="display: flex; justify-content: space-around;" width="100%">
+ <a  width="100%" href="https://gitlab.com/VilarimLucas" target="blank">
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="VilarimLucas" />
  </a>
- <a href="https://www.linkedin.com/in/lucas-vilarim-alves-9258165a/" target="_blank">
+ <a  width="100%" href="https://www.linkedin.com/in/lucas-vilarim-alves-9258165a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="VilarimLucas"/>
  </a>
  <!-- <a href="https://dev.to/VilarimLucas" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="VilarimLucas" />
  </a> -->
- <a href="https://twitter.com/Lucas_Vilarim" target="_blank">
+ <a  width="100%" href="https://twitter.com/Lucas_Vilarim" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://www.instagram.com/lucas.vilarim/" target="_blank">
+ <a  width="100%" href="https://www.instagram.com/lucas.vilarim/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="VilarimLucas" />
  </a> 
- <a href="https://github.com/VilarimLucas/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="VilarimLucas"  />
-  </a> 
 </p>
-<br />
+
+  <a width="100%" href="https://github.com/VilarimLucas">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VilarimLucas&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+
+<!-- 
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=VilarimLucas&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+-->
+
 
 <!-- About Section -->
  # Sobre mim
@@ -115,23 +118,18 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/VilarimLucas">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VilarimLucas&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VilarimLucas">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VilarimLucas&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
 
 <a> 
+    <a href="https://github.com/VilarimLucas">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VilarimLucas&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
     <a href="https://github.com/VilarimLucas"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=VilarimLucas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/VilarimLucas"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VilarimLucas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=VilarimLucas&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+
+
+
