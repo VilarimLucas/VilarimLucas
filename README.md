@@ -16,7 +16,7 @@
 
 <!-- Intro  -->
 
-  <a href="https://github.com/VilarimLucas">
+  <a width="100%" href="https://github.com/VilarimLucas">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VilarimLucas&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
 
