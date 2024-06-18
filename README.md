@@ -15,6 +15,12 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
 <!-- Intro  -->
+<p align="center">
+  <a href="https://github.com/VilarimLucas">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VilarimLucas&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
 <h3 align="center">
         <samp>&gt; Olá! Eu sou Desenvolvedor Multiplataforma brasileiro </samp>
 </h3>
@@ -121,11 +127,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/VilarimLucas">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VilarimLucas&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
+
 
 <a> 
     <a href="https://github.com/VilarimLucas"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=VilarimLucas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
