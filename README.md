@@ -16,13 +16,6 @@
 
 <!-- Intro  -->
 
-  <a width="100%" href="https://github.com/VilarimLucas">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VilarimLucas&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-
-<!-- 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=VilarimLucas&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
--->
 <p align="center">
  <a href="https://gitlab.com/VilarimLucas" target="blank">
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="VilarimLucas" />
@@ -43,7 +36,15 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="VilarimLucas"  />
   </a> 
 </p>
-<br />
+
+  <a width="100%" href="https://github.com/VilarimLucas">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VilarimLucas&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+
+<!-- 
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=VilarimLucas&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+-->
+
 
 <!-- About Section -->
  # Sobre mim
