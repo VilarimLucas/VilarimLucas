@@ -16,28 +16,6 @@
 
 <!-- Intro  -->
 
-<!-- Div exterior -->
-<div style="display: inline; justify-content: space-around;">
-
-  <!-- Divs internas (colunas) -->
-  <div style="flex: 1; padding: 10px; text-align: center; background-color: #f0f0f0;">
-    Conteúdo da Coluna 1
-  </div>
-
-  <div style="flex: 1; padding: 10px; text-align: center; background-color: #f0f0f0;">
-    Conteúdo da Coluna 2
-  </div>
-
-  <div style="flex: 1; padding: 10px; text-align: center; background-color: #f0f0f0;">
-    Conteúdo da Coluna 3
-  </div>
-
-  <div style="flex: 1; padding: 10px; text-align: center; background-color: #f0f0f0;">
-    Conteúdo da Coluna 4
-  </div>
-
-</div>
-
 
 <p style="display: flex; justify-content: space-around;" width="100%">
  <a  width="100%" href="https://gitlab.com/VilarimLucas" target="blank">
@@ -149,7 +127,6 @@
 <a> 
     <a href="https://github.com/VilarimLucas"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=VilarimLucas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/VilarimLucas"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VilarimLucas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
 </a>
 
 
