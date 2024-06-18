@@ -18,9 +18,9 @@
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div style="flex: 1 1 22%; margin: 10px; text-align: center;">Div 1</div>
-  <div class="inner">Div 2</div>
-  <div class="inner">Div 3</div>
-  <div class="inner">Div 4</div>
+  <div style="flex: 1 1 22%; margin: 10px; text-align: center;">Div 2</div>
+  <div style="flex: 1 1 22%; margin: 10px; text-align: center;">Div 3</div>
+  <div style="flex: 1 1 22%; margin: 10px; text-align: center;">Div 4</div>
 </div>
 
 <p style="display: flex; justify-content: space-around;" width="100%">
