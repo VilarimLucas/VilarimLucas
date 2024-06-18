@@ -23,11 +23,6 @@
 <!-- 
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=VilarimLucas&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 -->
-
-<h3 align="center">
-        <samp>&gt; Olá! Eu sou Desenvolvedor Multiplataforma brasileiro </samp>
-</h3>
-
 <p align="center">
  <a href="https://gitlab.com/VilarimLucas" target="blank">
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="VilarimLucas" />
