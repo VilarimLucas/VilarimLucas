@@ -15,6 +15,25 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
 <!-- Intro  -->
+<style>
+  .outer {
+    display: flex; /* Torna a div exterior um flex container */
+    justify-content: space-between; /* Distribui as divs internas igualmente */
+    flex-wrap: wrap; /* Permite que as divs internas quebrem para a próxima linha em telas menores */
+  }
+  .inner {
+    flex: 1 1 22%; /* Torna as divs internas flexíveis para ocupar todo o espaço disponível */
+    margin: 10px; /* Adiciona margem entre as divs internas (opcional) */
+    background-color: #f0f0f0; /* Cor de fundo para distinguir as divs internas */
+    text-align: center; /* Centraliza o conteúdo dentro das divs internas */
+  }
+</style>
+<div class="outer">
+  <div class="inner">Div 1</div>
+  <div class="inner">Div 2</div>
+  <div class="inner">Div 3</div>
+  <div class="inner">Div 4</div>
+</div>
 
 <p style="display: flex; justify-content: space-around;" width="100%">
  <a  width="100%" href="https://gitlab.com/VilarimLucas" target="blank">
