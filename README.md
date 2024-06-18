@@ -17,7 +17,7 @@
 <!-- Intro  -->
 
 <!-- Div exterior -->
-<div style="display: flex; justify-content: space-around;">
+<div style="display: inline; justify-content: space-around;">
 
   <!-- Divs internas (colunas) -->
   <div style="flex: 1; padding: 10px; text-align: center; background-color: #f0f0f0;">
