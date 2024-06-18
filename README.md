@@ -118,13 +118,11 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/VilarimLucas">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VilarimLucas&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
 
 <a> 
+    <a href="https://github.com/VilarimLucas">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VilarimLucas&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
     <a href="https://github.com/VilarimLucas"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=VilarimLucas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/VilarimLucas"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VilarimLucas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </a>
