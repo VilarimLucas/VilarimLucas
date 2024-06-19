@@ -56,8 +56,8 @@
     💬 &emsp; Saiba mais  <a href="https://vilarimlucas.github.io/VilarimLucas" target="_blank">clicando aqui!</a>
   </p>
 
-   <a href="https://github.com/VilarimLucas">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VilarimLucas&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+   <a width="100%" href="https://github.com/VilarimLucas">
+    <img width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=VilarimLucas&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 
 
