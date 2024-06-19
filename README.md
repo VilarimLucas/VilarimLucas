@@ -55,11 +55,11 @@
    📧 &emsp; Contas principais: vilarim.lucas@gmail.com & vilarim.lucas@outlook.com</br></br>
    💬 &emsp; Saiba mais  <a href="https://vilarimlucas.github.io/VilarimLucas" target="_blank">clicando aqui!</a></br></br>
  </p> 
-  
-<br/>
-<br/>
 
 ## To Code
+
+<a align="right" href="https://github.com/VilarimLucas"><img width="100%" alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VilarimLucas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -109,7 +109,7 @@
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=VilarimLucas&repo=VilarimLucas&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VilarimLucas/VilarimLucas) -->
 
 
-<a width="100%" href="https://github.com/VilarimLucas"><img width="100%" alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VilarimLucas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+
 
 
 <p align="left">
