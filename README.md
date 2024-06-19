@@ -46,6 +46,7 @@
 
 <!-- About Section -->
  # Sobre mim
+ <p>
  <ul align="left">
    <li>✌️ &emsp; Experiência com desenvolvimento Enterprise <br/><br/></li>
    <li>❤️ &emsp; Apaixonado pela cultura Alemã<br/><br/></li>
@@ -53,7 +54,7 @@
    <li>💬 &emsp; Saiba mais  <a href="https://vilarimlucas.github.io/VilarimLucas" target="_blank">clicando aqui!</a></li>
  </ul>
  <a align="right" href="https://github.com/VilarimLucas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VilarimLucas&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/></a>
-  
+ </p> 
   
 <br/>
 <br/>
