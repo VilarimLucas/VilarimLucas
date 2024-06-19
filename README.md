@@ -60,6 +60,11 @@
   </a>
 </a>
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 <br/>
 <br/>
 <br/>
