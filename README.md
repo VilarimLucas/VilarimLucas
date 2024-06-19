@@ -49,7 +49,7 @@
  
 
   <p>
-    <a align="right" width="350" href="https://github.com/VilarimLucas"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VilarimLucas&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/></a>
+    <a align="right" width="350" href="https://github.com/VilarimLucas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VilarimLucas&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/></a>
     ✌️ &emsp; Experiência com desenvolvimento Enterprise <br/><br/>
     ❤️ &emsp; Apaixonado pela cultura Alemã<br/><br/>
     📧 &emsp; Contas principais: vilarim.lucas@gmail.com & vilarim.lucas@outlook.com<br/><br/>
