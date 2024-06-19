@@ -17,7 +17,7 @@
 <!-- Intro  -->
 
 
-<p style="display: flex; justify-content: space-around;" width="100%">
+<p width="100%">
  <a  width="100%" href="https://gitlab.com/VilarimLucas" target="blank">
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="VilarimLucas" />
  </a>
@@ -48,7 +48,7 @@
  # Sobre mim
  <p>
    <a align="right" width="50%" href="https://github.com/VilarimLucas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VilarimLucas&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/></a>
-   <a align="left" href="https://github.com/VilarimLucas"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=VilarimLucas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="50%"/></a>
+   <a align="left" width="50%" href="https://github.com/VilarimLucas"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=VilarimLucas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
    </br></br>
    ✌️ &emsp; Experiência com desenvolvimento Enterprise</br></br>
    ❤️ &emsp; Apaixonado pela cultura Alemã</br></br>
