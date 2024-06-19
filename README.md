@@ -47,7 +47,7 @@
 <!-- About Section -->
  # Sobre mim
  
- <a>
+ |
   <p>
     <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
     ✌️ &emsp; Experiência com desenvolvimento Enterprise <br/><br/>
@@ -55,15 +55,14 @@
     📧 &emsp; Contas principais: vilarim.lucas@gmail.com & vilarim.lucas@outlook.com<br/><br/>
     💬 &emsp; Saiba mais  <a href="https://vilarimlucas.github.io/VilarimLucas" target="_blank">clicando aqui!</a>
   </p>
+  |
    <a href="https://github.com/VilarimLucas">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VilarimLucas&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
-</a>
+|
 
-| Syntax      | Description |
-| ----------- | ----------- |
 | Header      | Title       |
-| Paragraph   | Text        |
+
 
 <br/>
 <br/>
