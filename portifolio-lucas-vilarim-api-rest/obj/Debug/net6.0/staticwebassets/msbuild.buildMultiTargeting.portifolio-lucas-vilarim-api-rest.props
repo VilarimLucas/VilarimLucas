@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\portifolio-lucas-vilarim-api-rest.props" />
+</Project>

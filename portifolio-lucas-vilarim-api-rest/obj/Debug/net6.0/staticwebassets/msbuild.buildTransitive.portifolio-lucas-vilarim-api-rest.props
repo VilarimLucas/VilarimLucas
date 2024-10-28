@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\portifolio-lucas-vilarim-api-rest.props" />
+</Project>
